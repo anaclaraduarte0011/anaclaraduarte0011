@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Ana Clara 
-- 👀 I’m interested in development of websites, AI's, front-end , back-end...
-- 🌱 I’m currently learning java,spark,maven,javascript...
-- 💞️ I’m looking to collaborate on an internship
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have some interest in design, UX design, etc
+-  Hi, I’m Ana Clara 
+-  I’m interested in development of websites, AI's, front-end , back-end...
+-  I’m currently learning java, spark, maven, javascript, react, node...
+-  Pronouns: she/her
+- ⚡ Fun fact: I also really like design, UX design, etc 
 
 <!---
 anaclaraduarte0011/anaclaraduarte0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
